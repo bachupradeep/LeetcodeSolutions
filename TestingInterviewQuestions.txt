@@ -1,0 +1,88 @@
+=============UI Automation testing and Programs======================
+Write a program to find duplicate characters and print how many times duplicated character occured without using buildin methods?
+Write a program to find duplicated words and print how many times duplicated word occured ?
+Write a program to find the given word is anagram or not ?
+Write a program to print permutaions of given string ?
+Write a program to sort a stack elements using another stack ?
+Write a program to reverse the elements of given arraylist and print it ?
+Write a program to reverse a number ?
+Write a code to handle webtables ?
+Write a code to launch google.com and type mobile and select 4th option ?
+Write code to read excel data ?
+How to convert Array to list ?
+How to convert List to Array ?
+What is singletone design pattern ?
+What is factory design pattern ?
+What is difference between POM and PageFactory ?
+Explain about the components present in your automation framework ?
+Difference between hashmap and hashtable ?
+Explain Collection framework heirarchy ?
+Explain Exception heirarcy ?
+Difference beween abstract class and interface ?
+Explains OOPS concepts ?
+What are the wrapper classes ?
+Difference between overloading and overriding ? where you have used these in your framework ?
+Can we override static and final methods ?
+Can we overload main method ?
+How do we generate reports ? explain ?
+What are the testng annotations you used in your framework ?
+What are ways to run test scripts in parrallel ? which do you use ?
+Write xpath for shared snippet ?
+How to handle windows and frames ? write code ?
+How to do you handle dyncially updating webtables ?
+How do you handle the text which just come and disappears ?
+Tell me some exceptions you faced through out your automation testing experience ?
+Explain about hashtable and how it is implemented internally ?
+What are different ways to create String object and what is the difference between them?
+Explain about SCP concept?
+Why string is immutable ?
+What is difference between StringBuffer and StringBuilder?
+What is difference between super() and this() ? can we call them from out side of constructor ?
+What is difference between super and this keywords ?
+Can we put try and finally without using catch block ?
+Explain the contract between hashcode and equals methods ?
+How do you maximize the browser to particular dimension ?
+
+============API Automation Testing==================
+Write a code to create post request and validate it's response ?
+What are areas you validated in Rest API testing ?
+How to fetch and validate nested element of response body ?
+How do you update request json dynamically before passing to request in api testing ?
+What is difference between 400 and 404 ?
+What is difference between 401 and 403 ?
+What is difference between 204 and 206 ?
+What is difference between 200 and 204 ?
+What are server side error codes you faced in your expereince ?
+What is 300 status code ?
+What is difference between Post and put and patch ?
+What are best practices for Automation testing?
+How to create logs in automation framework ? how did you do in your framework ?
+
+=============CUCUMBER and BDD framework=================
+How to run scripts in BDD framework ? write runner class ?
+How to rerun failed scripts in cucumber ?
+How to run scripts parallely in BDD framework ?
+Write gherkin feature file for the given scenario ?
+Difference between scenario and scenario outline ?
+Difference between Background and before hook ?
+How do you skip some tags out 100 tags which you specified in cucumber runner file ?
+How do you pass different sets of input data to your script without using Examples in feature file ?
+
+======================Manual and Other Questions===========
+What is your test automation strategy for Automation Testing ?
+What is your Test strategy if i give you new project ? how do you test and deliver quality product ?
+what are metrics you follow to deliver the product for each release ? what is the exit criteria ?
+If you are a team lead, how can you give ratings to your team members for hike cycle ?
+If you are a team lead, how do you estimate efforts and what is your plan in hiring resources ?
+How many test cases you have automated in your current project ? how many suites you execute daily and how long the execution takes ?
+How do you execute automation scripts ? do you use Jenkins ? can you setup jenkins configuration ?
+Write code to connect to data base ?
+Explain Joins in sql ?
+What is difference between Unique and Distinct ?
+Write sql query to fetch 2nd highest employee salary ?
+
+
+
+
+
+
