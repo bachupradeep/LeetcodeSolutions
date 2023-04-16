@@ -1,0 +1,38 @@
+Problem Statement:
+Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
+
+
+
+Java Solution:
+class Solution {
+    public boolean repeatedSubstringPattern(String s) {
+        
+        
+        
+        int len=s.length();
+
+        
+
+        for(int i=0;i<len/2;i++)
+        {
+            String substr=s.substring(0,i+1);
+           
+
+            if(len%substr.length()==0)
+            {
+                int repeatedTimes=len/substr.length();
+                StringBuilder temp=new StringBuilder();
+                for(int j=0;j<repeatedTimes;j++)
+                {
+                    temp=temp.append(substr);
+                   
+                }
+               
+                if(temp.toString().equals(s)) return true;
+
+            }
+        }
+
+        return false;
+    }
+}
