@@ -1,0 +1,63 @@
+Interview questions:
+
+Process & Framework related:
+1. Explain the steps to configure Pipeline Jobs using either Jenkins or Azure devops.
+2. usage of any code quality tool like Sonarqube in your project
+3. Explain exception handling concepts, Interfaces, design patterns and custom exceptions used in your project.
+4. where did you use reflection API in your framework.
+5. Explain differnt layers in automation framework.
+6. Difference between any two frameworks(eg: Keyword driven framework and modular driven framework)
+7. Explain SOLID principles and which principle you have used in the framework.
+8. how to you achieve parallel execution in your framework or testng.
+9. how do you exclude few tests from group of tests in testng.
+10. Explain about DataProvider annotation in testng and how did you achieve parametirization in testng.
+11. Any Experience in developemnt of framework from scratch
+12. Explain about different profiles used in mavena and have you used any custom profiles in your project.
+13. Explain which reporting feature you have used.. for e.g Extent Reports  
+14. where exactly you schedule your regression suites, either on vm's or Azure devops pools and explain the procedure of configuration.
+15. Explain how did you handle browser version and driver version compatability issue automatically in your project.
+16. Explain the process you follow in your project(starting from taking the work and delivering the work).
+17. How do you provide estimates for any task in your project, do you follow any metrics.
+18. what are burndown charts in agile methodology
+19. what is productbacklog and sprintbacklog.
+20. what challenges did you face while handling the team.
+21. Usage of Streams,Functional Interfaces(Java 8 features) in your project.
+22. How do you achieve parallel testing in selenium-cucumber
+23. Usage of hooks and background in selenium-cucumber.
+24. Explain what is testrunner file in selenium-cucumber.
+25. Explain in how many ways you can trigger selenium suites in testng.
+26. Explain ITestListener Interface.
+27. How many ways you can scheduled the falied test case again in testng.
+
+Selenium related:
+1. When do you go for JavaScriptExecutor.
+2. Explain Synchronization mechanism in Selenium(Implicitwait, Explicitwait, Fluentwait)
+3. how do you write an xpath to find an element whose node gets disappeared in the DOM when you try to inspect it.
+4. difference between Soft and hard assertion.
+5. Explain Actions class, select class, switching between multiple windows and frames
+6. Explain Selenium architecture
+7. how do you find whether a radio button is selected or not.
+8. Usage of oops concepts in Selenium.
+9. types of locators in selenum and which locator is faster.
+10. Explain different exceptions in selenium.
+11. when do you get staleElementException and how do you handle it.
+12. what type of exception will you get if browser version and driver version is not in sync.
+13. Difference between FluentWait and Explicit wait.
+
+Java Concepts.
+1.OOPs Concepts.
+2.Exception Handling
+3.difference b/w Interfaces and Abstract Classes, which one you choose and why.
+4.Questions on Collections, where exactly used Collections concepts in framework.
+5.Questions on Threads.
+6.Difference between HashSet and HashMap
+7.Usage of ArrayList and LinkedList in your project.
+8.What is reflection api
+9.difference b/w string and stringbuffer
+10. Questions on Constructors, Inner Classes
+
+1.Programs on Strings
+2.Program to removal of duplicates from arrays, Strings using HashSet, HashMap
+3.AnyProgram like sorting, searching, nth highest, removal of special characters from String.
+
+
